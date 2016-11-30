@@ -2,6 +2,7 @@
 layout: single
 read_time: false
 comments: false
+share: false
 title: Publications
 permalink: /publications/
 ---
