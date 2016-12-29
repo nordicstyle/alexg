@@ -11,9 +11,9 @@ title                    : "Alex Kendall"
 title_separator          : "-"
 name                     : "Alex Kendall"
 description              : "Research Website and Blog."
-url                      : "https://alexgkendall.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://alexgkendall.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "alexgkendall/alexgkendall.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "alexgkendall/alexgkendall.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Alex Kendall"
   avatar           : "/assets/images/alex.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student"
+  bio              : "PhD Student; Engineering, Computer Vision, Robotics, Artificial Intelligence"
   location         : "University of Cambridge"
   email            : "alexgkendall@gmail.com"
   uri              :
