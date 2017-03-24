@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Alex Kendall"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Alex Kendall"
 description              : "Research Website and Blog."
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "alexgkendall"
 facebook:
   username               :
   app_id                 :
@@ -67,6 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/alexgkendall"
 
 # Analytics
 analytics:
@@ -79,9 +80,9 @@ analytics:
 author:
   name             : "Alex Kendall"
   avatar           : "/assets/images/alex.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student; Engineering, Computer Vision, Robotics, Artificial Intelligence"
+  bio              : "Computer Vision & Robotics Research"
   location         : "University of Cambridge"
-  email            : "alexgkendall@gmail.com"
+  email            : "agk34@cam.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :

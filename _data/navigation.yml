@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Projects"
-    url: https://alexgkendall.github.io
-  - title: "Blog"
-    url: https://alexgkendall.github.io
-  - title: "Software"
-    url: https://alexgkendall.github.io
+  - title: "Research"
+    url: https://alexgkendall.github.io/research/
+#  - title: "Blog"
+#    url: https://alexgkendall.github.io/blog/
   - title: "Talks"
-    url: https://alexgkendall.github.io
+    url: https://alexgkendall.github.io/talks/
   - title: "Publications"
     url: https://scholar.google.co.uk/citations?user=hE2mTp4AAAAJ
+  - title: "About"
+    url: https://alexgkendall.github.io/about/
