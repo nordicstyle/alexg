@@ -13,7 +13,7 @@ header:
   caption: "Photo: Olly McMillan"
 ---
 
-### Publications
+## Publications
 
 For a complete list of publications, please refer to <a href="https://scholar.google.co.uk/citations?user=+" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a>.
 
