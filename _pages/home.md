@@ -68,7 +68,7 @@ feature_row:
 
 ## In the Media
 
-<figure class="padding">
+<figure class="six">
 	<a href="http://www.cam.ac.uk/research/news/teaching-machines-to-see-new-smartphone-based-system-could-accelerate-development-of-driverless-cars"><img src="/assets/images/logos/cam.png"></a>
 	<a href="http://www.dailymail.co.uk/sciencetech/article-3371075/See-world-eyes-driverless-car-town-Interactive-tool-reveals-autonomous-vehicles-navigate-streets.html"><img src="/assets/images/logos/dailymail.jpg"></a>
 	<a href="http://www.seeker.com/a-way-for-driverless-cars-to-see-the-road-and-react-1770642552.html"><img src="/assets/images/logos/discovery.png"></a>

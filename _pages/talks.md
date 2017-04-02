@@ -20,7 +20,7 @@ feature_row_geo_unc:
     
 feature_row_cucl:
   - image_path: /assets/images/presentations/learning_to_see.jpg
-    alt: "Alex Kendall: Learning to see"
+    alt: "Alex Kendall: Learning to See"
     title: 'Learning to see'
     excerpt: '<ul><li>Cambridge University Computer Lab, May 26th 2016, Cambridge, UK.</li><li>Google [X], 2nd May 2016, Mountain View, USA.</li><li>British Machine Vision Association, "Computer Vision for Automotive Applications – The Road Ahead", April 13th 2016, London, UK.</li></ul>'
   

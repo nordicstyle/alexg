@@ -244,6 +244,20 @@ figure {
       width: 100%;
     }
   }
+
+  &.six {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(16.6666% - 0.5em);
+        padding: 0.5em;
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
 }
 
 /* Figure captions */
