@@ -4,7 +4,7 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: Publications
+title: <br><br><br><br><br>Publications
 permalink: /publications/
 header:
   overlay_color: "#000"
@@ -15,7 +15,7 @@ header:
 
 ### Publications
 
-For a complete list of publications, please refer to my profile on <a href="https://scholar.google.co.uk/citations?user=+" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a>.
+For a complete list of publications, please refer to <a href="https://scholar.google.co.uk/citations?user=+" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a>.
 
 ---
 
@@ -54,7 +54,7 @@ For a complete list of publications, please refer to my profile on <a href="http
 </div>
 
 > <small>
-    Vijay Badrinarayanan, Alex Kendall and Roberto Cipolla. SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation. arXiv preprint arXiv:1511.00561, 2015.<br>
+    Vijay Badrinarayanan, Alex Kendall and Roberto Cipolla. SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation. PAMI, 2017.<br>
     (<a href="http://arxiv.org/abs/1511.00561" style="color:gray">.pdf</a>)
     (<a href="http://mi.eng.cam.ac.uk/~agk34/images/segnet_poster.png" style="color:gray">poster</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_segnet');">bibtex</a>)

@@ -4,7 +4,7 @@ read_time: false
 comments: true
 share: true
 author_profile: false
-title: <br><br>Selected Talks
+title: <br><br><br><br><br>Selected Talks
 permalink: /talks/
 header:
   overlay_color: "#000"
@@ -13,55 +13,31 @@ header:
   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
     
 feature_row_geo_unc:
-  - image_path: /assets/images/tti_presentation.jpg
-    alt: "Alex Kendall: Cambridge University Computer Lab, 'Learning to see'"
-    title: 'Oxford University Seminar, "Geometry and Uncertainty in Deep Learning for Computer Vision"'
-    excerpt: 'March 20th 2017, Oxford, UK.'
-    url: "#test-link"
-    btn_label: "Presentation (.pdf)"
-    btn_class: "btn--inverse"
+  - image_path: /assets/images/presentations/geo_unc.jpg
+    alt: "Alex Kendall: Geometry and Uncertainty in Deep Learning for Computer Vision"
+    title: 'Geometry and Uncertainty in Deep Learning for Computer Vision'
+    excerpt: '<ul><li>Oxford University, March 20th 2017, Oxford, UK.</li><li>Bristol University, March 21st 2017, Bristol, UK.</li></ul>'
     
 feature_row_cucl:
-  - image_path: /assets/images/tti_presentation.jpg
-    alt: "Alex Kendall: Cambridge University Computer Lab, 'Learning to see'"
-    title: 'Cambridge University Computer Lab, "Learning to see"'
-    excerpt: 'May 26th 2016, Cambridge, UK.'
-    url: "#test-link"
-    btn_label: "Presentation (.pdf)"
-    btn_class: "btn--inverse"
+  - image_path: /assets/images/presentations/learning_to_see.jpg
+    alt: "Alex Kendall: Learning to see"
+    title: 'Learning to see'
+    excerpt: '<ul><li>Cambridge University Computer Lab, May 26th 2016, Cambridge, UK.</li><li>Google [X], 2nd May 2016, Mountain View, USA.</li><li>British Machine Vision Association, "Computer Vision for Automotive Applications – The Road Ahead", April 13th 2016, London, UK.</li></ul>'
   
 feature_row_tti:
   - image_path: /assets/images/tti_presentation.jpg
     alt: "Alex Kendall: TTI/ Vanguard, 'Networks, Sensors, & Mobility'"
     title: 'TTI/ Vanguard, "Networks, Sensors, & Mobility"'
     excerpt: '3rd May 2016, San Francisco, USA.'
-    url: "#test-link"
-    btn_label: "Presentation (.pdf)"
-    btn_class: "btn--inverse"
-    
-feature_row_googlex:
-  - image_path: /assets/images/tti_presentation.jpg
-    alt: "Alex Kendall: Google [X], 'Learning to see'"
-    title: 'Google [X], "Learning to see"'
-    excerpt: '2nd May 2016, Mountain View, USA.'
-    url: "#test-link"
-    btn_label: "Presentation (.pdf)"
-    btn_class: "btn--inverse"
-    
-feature_row_bmva:
-  - image_path: /assets/images/tti_presentation.jpg
-    alt: "Alex Kendall: British Machine Vision Association, 'Computer Vision for Automotive Applications – The Road Ahead'"
-    title: 'British Machine Vision Association, "Computer Vision for Automotive Applications – The Road Ahead"'
-    excerpt: 'April 13th 2016, London, UK.'
-    url: "#test-link"
-    btn_label: "Presentation (.pdf)"
+    url: "https://www.youtube.com/watch?v=hyEPnLb5abU"
+    btn_label: "Video"
     btn_class: "btn--inverse"
     
 feature_row_perse:
   - image_path: /assets/images/presentations/stephen_perse.png
     alt: "Alex Kendall: Stephen Perse Foundation, 'Computer Vision: Making Machines See'"
-    title: 'Stephen Perse Foundation, "Computer Vision: Making Machines See"'
-    excerpt: '4th Feb 2016, Cambridge, UK.'
+    title: 'Computer Vision: Making Machines See'
+    excerpt: 'Stephen Perse Foundation, 4th Feb 2016, Cambridge, UK.'
     url: "/media/presentations/perse_computer_vision_making_machines_see.pdf"
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"

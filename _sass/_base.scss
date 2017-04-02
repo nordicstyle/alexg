@@ -230,6 +230,20 @@ figure {
       width: 100%;
     }
   }
+
+  &.padding {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(33.3333% - 0.5em);
+        padding: 1em;
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
 }
 
 /* Figure captions */
