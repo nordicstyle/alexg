@@ -22,6 +22,21 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ## 2017
 
 > <small>
+    Alex Kendall and Roberto Cipolla. Geometric loss functions for camera pose regression with deep learning. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.<br>
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_posenetcvpr');">bibtex</a>)
+</small>
+<div id="bibtex_posenetcvpr" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@inproceedings{kendall2017posenet,
+  title={Geometric loss functions for camera pose regression with deep learning},
+  author={Kendall, Alex and Cipolla, Roberto},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2017}
+}
+</code></pre></div></small>
+</div>
+
+> <small>
     Alex Kendall and Yarin Gal. What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? arXiv preprint arXiv:1703.04977, 2017.<br>
     (<a href="https://arxiv.org/pdf/1703.04977.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_bayes_unc');">bibtex</a>)
