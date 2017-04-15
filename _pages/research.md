@@ -22,10 +22,10 @@ gallery_uncertainty:
 
 # Bayesian Deep Learning
 
-Deep learning is great for achieving state-of-the-art results - however these models can't understand what they don't know.
-Bayesian deep learning is a very exciting framework for understanding the model uncertainty.
+Deep learning is great for achieving state-of-the-art results, however these models can't understand what they don't know.
+Bayesian deep learning (BDL) is a very exciting framework for understanding our model's uncertainty.
 [This paper](https://arxiv.org/pdf/1703.04977.pdf) is an introduction to Bayesian deep learning for computer vision. 
-I've also found it useful for [localisation](http://arxiv.org/abs/1509.05909) and [scene understanding](http://arxiv.org/abs/1511.02680).
+I've also found BDL useful for [localisation](http://arxiv.org/abs/1509.05909) and [scene understanding](http://arxiv.org/abs/1511.02680).
 
 {% include gallery id="gallery_uncertainty" caption="Bayesian deep learning for semantic segmentation. From left to right: input image, semantic segmentaion and model uncertainty." %}
 
@@ -33,9 +33,9 @@ I've also found it useful for [localisation](http://arxiv.org/abs/1509.05909) an
 
 # Scene Understanding
 
-Scene understanding is a critical task in computer vision which requires understanding geometry and semantics. 
+Scene understanding is a fundamental task in computer vision which requires understanding the scene's geometry and semantic structure. 
 Initially, I worked on a semantic segmentation algorithm called [SegNet](http://mi.eng.cam.ac.uk/projects/segnet/). 
-More recently, I've been interested in learning depth, instance and semantic segmentation from a unified architecture.
+More recently, I've been interested in learning depth, instance and semantic segmentation from a unified deep learning architecture.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/research/multitask.jpg){: .align-center}
 
@@ -43,7 +43,8 @@ More recently, I've been interested in learning depth, instance and semantic seg
 
 # Localisation
 
-PoseNet is an algorithm for relocalisation - estimating the position and orientation of the camera from an image within a previously explored area. 
+[PoseNet](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf) is an algorithm for relocalisation - 
+estimating the position and orientation of the camera from an image within a previously explored area. 
 It works over large outdoor urban environments or inside buildings. 
 It takes only 5ms to do this from a single colour image, [here is a demo](http://mi.eng.cam.ac.uk/projects/relocalisation/).
 
