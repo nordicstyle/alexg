@@ -20,20 +20,20 @@ tags:
 
 _Deep learning_ has revolutionised computer vision. 
 Today, there are not many problems where the best performing solution is not based on an end-to-end deep learning model. 
-In particular, deep convolutional neural networks are popular as they tend to work fairly well out of the box.
-However, deep learning models are largely big black-boxes. There are a lot of things we don't understand about them.
+In particular, convolutional neural networks are popular as they tend to work fairly well out of the box.
+However, these models are largely big black-boxes. There are a lot of things we don't understand about them.
 
 Despite this, we are getting some very exciting results with deep learning. 
 Remarkably, researchers are able to claim a lot of _low-hanging fruit_ with some data and 20 lines of code using a basic deep learning API.
 While these results are benchmark-breaking, I think they are often naive and missing a principled understanding. 
 
-In this blog post I am going to argue that people often apply deep learning models naively to computer vision problems.
+In this blog post I am going to argue that people often apply deep learning models naively to computer vision problems -- and that we can do better.
 I think a really good example is with some of my own work from the first year of my PhD. 
 [PoseNet](http://mi.eng.cam.ac.uk/projects/relocalisation/) was an algorithm I developed for learning camera pose with deep learning. 
-The problem had been studied for decades in computer vision, and had some really nice surrounding theory.
+This problem has been studied for decades in computer vision, and has some really nice surrounding theory.
 However, as a naive first year graduate student, I applied a deep learning model to learn the problem end-to-end and obtained some nice results.
 Although, I completely ignored the theory of this problem. 
-At the end of the post I will describe some recent follow on work which looks at this problem from a more theoretical, geometry based approach, vastly improving performance.
+At the end of the post I will describe some recent follow on work which looks at this problem from a more theoretical, geometry based approach which vastly improves performance.
 
 I think we're running out of low-hanging fruit, or problems we can solve with a simple high-level deep learning API.
 Specifically, I think many of the next advances in computer vision with deep learning will come from insights to *geometry*.
@@ -50,8 +50,7 @@ Some examples at the end of this blog show how we can use geometry to improve th
 
 The alternative paradigm is using semantic representations. 
 Semantic representations use a language to describe relationships in the world. For example, we might describe an object as a 'cat' or a 'dog'.
-
-In particular, I think geometry has two attractive characteristics over semantics:
+But, I think geometry has two attractive characteristics over semantics:
 
   1. Geometry can be directly observed. We see the world's geometry directly using vision.
   At the most basic level, we can observe motion and depth directly from a video by following corresponding pixels between frames.
@@ -121,7 +120,7 @@ It solves what is known as the _[kidnapped robot problem](https://en.wikipedia.o
 In the initial paper from [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf), we solved this by learning an end-to-end mapping from input image to 6-DOF camera pose.
 This naively treats the problem as a black box.
 At [CVPR](https://arxiv.org/pdf/1704.00390.pdf) this year, we are going to presenting an update to this method which considers the geometry of the problem. 
-In particular, rather than learning camera position and orientation values as separate regression targets, we learn them using the geometric reprojection error.
+In particular, rather than learning camera position and orientation values as separate regression targets, we learn them together using the geometric reprojection error.
 This accounts for the geometry of the world and gives significantly improved results.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/research/localisation.jpg){: .align-center}
@@ -140,7 +139,7 @@ The matching and regularisation steps required to produce depth estimates are la
 
 We proposed the architecture [GC-Net](https://arxiv.org/pdf/1703.04309.pdf) which instead looks at the problem's fundamental geometry. 
 It is well known in stereo that we can estimate disparity by forming a cost volume across the 1-D disparity line.
-The novelty in this paper was showing how to formulate the geometry of the cost volume in a differentiable way and as a regression model.
+The novelty in this paper was showing how to formulate the geometry of the cost volume in a differentiable way as a regression model.
 More details can be found in the paper [here](https://arxiv.org/pdf/1703.04309.pdf).
 
 {% capture fig_stereo %}
