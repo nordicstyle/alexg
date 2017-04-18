@@ -48,6 +48,8 @@ estimating the position and orientation of the camera from an image within a pre
 It works over large outdoor urban environments or inside buildings. 
 It takes only 5ms to do this from a single colour image, [here is a demo](http://mi.eng.cam.ac.uk/projects/relocalisation/).
 
+Check out some 3D reconstructions of [King's College](http://mi.eng.cam.ac.uk/~agk34/map.html) and [central Cambridge](http://mi.eng.cam.ac.uk/~agk34/viewer.html) in your web browser.
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/research/localisation.jpg){: .align-center}
 
 ---
