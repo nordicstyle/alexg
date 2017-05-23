@@ -14,6 +14,12 @@
       {% capture f_url %}{{ f.url | absolute_url }}{% endcapture %}
     {% endif %}
 
+    {% if f.url2 contains "://" %}
+      {% capture f_url2 %}{{ f.url2 }}{% endcapture %}
+    {% else %}
+      {% capture f_url2 %}{{ f.url2 | absolute_url }}{% endcapture %}
+    {% endif %}
+
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
