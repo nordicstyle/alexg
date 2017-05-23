@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Is Not Good Enough,<br>We Need Bayesian Deep Learning for Safe AI"
+title: "Deep Learning Is Not Good Enough, <br>We Need Bayesian Deep Learning for Safe AI"
 layout: single
 read_time: true
 comments: true
