@@ -22,6 +22,38 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ## 2017
 
 > <small>
+    Alex Kendall, Yarin Gal and Roberto Cipolla. Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics. arXiv preprint arXiv:1705.07115, 2017.<br>
+    (<a href="https://arxiv.org/pdf/1705.07115.pdf" style="color:gray">.pdf</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_multi');">bibtex</a>)
+</small>
+<div id="bibtex_multi" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{kendall2017multi,
+  title={Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics},
+  author={Kendall, Alex and Gal, Yarin and Cipolla, Roberto},
+  booktitle={arXiv preprint arXiv:1705.07115},
+  year={2017}
+}
+</code></pre></div></small>
+</div>
+
+> <small>
+    Yarin Gal, Jiri Hron and Alex Kendall. Concrete Dropout. arXiv preprint arXiv:1705.07832, 2017.<br>
+    (<a href="https://arxiv.org/abs/1705.07832" style="color:gray">.pdf</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_cdropout');">bibtex</a>)
+</small>
+<div id="bibtex_cdropout" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{gal2017concrete,
+  title={Concrete Dropout},
+  author={Gal, Yarin and Hron, Jiri and Kendall, Alex},
+  booktitle={arXiv preprint arXiv:1705.07832},
+  year={2017}
+}
+</code></pre></div></small>
+</div>
+
+> <small>
     Alex Kendall and Roberto Cipolla. Geometric loss functions for camera pose regression with deep learning. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.<br>
     (<a href="https://arxiv.org/abs/1704.00390" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_posenetcvpr');">bibtex</a>)

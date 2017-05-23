@@ -13,11 +13,21 @@ header:
 excerpt: "Geometry and Uncertainty in Deep Learning for Computer Vision<br><br><br>"
 gallery_uncertainty:
   - image_path: /assets/images/research/input.png
-    alt: "Black and grays with a hint of green"
+    alt: "Input Image"
   - image_path: /assets/images/research/segmentation.png
-    alt: "Made for open text placement"
+    alt: "Semantic Segmentation"
   - image_path: /assets/images/research/uncertainty.jpg
-    alt: "Fog in the trees"
+    alt: "Uncertainty"
+---
+
+# Scene Understanding
+
+Scene understanding is a fundamental task in computer vision which requires understanding the scene's geometry and semantic structure.
+Initially, I worked on a semantic segmentation algorithm called [SegNet](http://mi.eng.cam.ac.uk/projects/segnet/).
+More recently, I've been interested in learning depth, instance and semantic segmentation from a [unified deep learning architecture](https://arxiv.org/pdf/1705.07115.pdf).
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/multitask.jpg){: .align-center}
+
 ---
 
 # Bayesian Deep Learning
@@ -28,16 +38,6 @@ Bayesian deep learning (BDL) is a very exciting framework for understanding our 
 I've also found BDL useful for [localisation](http://arxiv.org/abs/1509.05909) and [scene understanding](http://arxiv.org/abs/1511.02680).
 
 {% include gallery id="gallery_uncertainty" caption="Bayesian deep learning for semantic segmentation. From left to right: input image, semantic segmentaion and model uncertainty." %}
-
----
-
-# Scene Understanding
-
-Scene understanding is a fundamental task in computer vision which requires understanding the scene's geometry and semantic structure. 
-Initially, I worked on a semantic segmentation algorithm called [SegNet](http://mi.eng.cam.ac.uk/projects/segnet/). 
-More recently, I've been interested in learning depth, instance and semantic segmentation from a unified deep learning architecture.
-
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/research/multitask.jpg){: .align-center}
 
 ---
 
