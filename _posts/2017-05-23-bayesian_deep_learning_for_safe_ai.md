@@ -45,7 +45,7 @@ The main issue is that traditional machine learning approaches to understanding 
 To effectively understand this data, we need deep learning. But deep learning struggles to model uncertainty.
 
 In this post I'm going to introduce a resurging field known as Bayesian deep learning (BDL), which provides a deep learning framework which can also model uncertainty.
-BDL can acheive state-of-the-art results, while also understanding uncertainty.
+BDL can achieve state-of-the-art results, while also understanding uncertainty.
 I'm going to explain the different types of uncertainty and show how to model them.
 Finally, I'll discuss a recent result which shows how to use uncertainty to weight losses for multi-task deep learning.
 The material for this blog post is mostly taken from my two recent papers:
