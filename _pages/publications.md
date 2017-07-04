@@ -22,6 +22,21 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ## 2017
 
 > <small>
+    Rowan McAllister, Yarin Gal, Alex Kendall, Mark van der Wilk, Amar Shah, Roberto Cipolla, and Adrian Weller. Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning. International Joint Conference on Artificial Intelligence (IJCAI), 2017.<br>
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_ijcai');">bibtex</a>)
+</small>
+<div id="bibtex_ijcai" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{mcallister2017av_bdl,
+  title={Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics},
+  author={McAllister, Rowan and Gal, Yarin and Kendall, Alex and van der Wilk, Mark and Shah, Amar and Cipolla, Roberto and Weller, Adrian},
+  booktitle={International Joint Conference on Artificial Intelligence},
+  year={2017}
+}
+</code></pre></div></small>
+</div>
+
+> <small>
     Alex Kendall, Yarin Gal and Roberto Cipolla. Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics. arXiv preprint arXiv:1705.07115, 2017.<br>
     (<a href="https://arxiv.org/pdf/1705.07115.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_multi');">bibtex</a>)
