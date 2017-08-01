@@ -11,6 +11,18 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/trinity.jpg
   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
+
+feature_row_lsvpr:
+  - image_path: /assets/images/presentations/localisation.png
+    alt: "Alex Kendall: Large-Scale Visual Place Recognition and Image-Based Localization, CVPR Tutorial"
+    title: 'Learning-based	Visual	Localization'
+    excerpt: '<ul><li>Large-Scale Visual Place Recognition and Image-Based Localization, CVPR Tutorial, Hawaii, 2017</li></ul>'
+    btn_class: "btn--inverse"
+    btn_label: "Presentation (.pdf)"
+    url: "/media/presentations/lsvpr_2017_cvpr_tutorial_alex_kendall.pdf"
+    btn_class2: "btn--inverse"
+    btn_label2: "Tutorial Website"
+    url2: "https://sites.google.com/view/lsvpr2017/home"
     
 feature_row_geo_unc:
   - image_path: /assets/images/presentations/geo_unc.jpg
@@ -50,6 +62,7 @@ feature_row_perse:
     
 ---
 
+{% include feature_row id="feature_row_lsvpr" type="left" %}
 {% include feature_row id="feature_row_geo_unc" type="left" %}
 {% include feature_row id="feature_row_cucl" type="left" %}
 {% include feature_row id="feature_row_tti" type="left" %}

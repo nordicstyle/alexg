@@ -70,7 +70,10 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 > <small>
     Alex Kendall and Roberto Cipolla. Geometric loss functions for camera pose regression with deep learning. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.<br>
+    <b>(Spotlight Oral)</b>
     (<a href="https://arxiv.org/abs/1704.00390" style="color:gray">.pdf</a>)
+    (<a href="/media/presentations/cvpr17_posenet_poster.pdf" style="color:gray">Poster</a>)
+    (<a href="/media/presentations/cvpr17_posenet_slides.pdf" style="color:gray">Slides</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_posenetcvpr');">bibtex</a>)
 </small>
 <div id="bibtex_posenetcvpr" style="display:none;">
@@ -178,18 +181,18 @@ Alex Kendall, Matthew Grimes and Roberto Cipolla. PoseNet: A Convolutional Netwo
 
 
 > <small>
-    Alex Kendall, Vijay Badrinarayanan and Roberto Cipolla. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding. arXiv preprint arXiv:1511.02680, 2015.<br>
+    Alex Kendall, Vijay Badrinarayanan and Roberto Cipolla. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding. Proceedings of the British Machine Vision Conference (BMVC), 2017.<br>
     (<a href="http://arxiv.org/abs/1511.02680" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_bayesiansegnet');">bibtex</a>)
     (<a href="http://mi.eng.cam.ac.uk/projects/segnet/" style="color:gray">Webpage</a>)
 </small>
 <div id="bibtex_bayesiansegnet" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
-<code>@article{kendall2015bayesian,
+<code>@inproceedings{kendall2015bayesian,
   title={Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding},
   author={Kendall, Alex and Badrinarayanan, Vijay and and Cipolla, Roberto},
-  journal={arXiv preprint arXiv:1511.02680},
-  year={2015}
+  booktitle={Proceedings of the British Machine Vision Conference ({BMVC})},
+  year={2017}
 }
 </code></pre></div></small>
 </div>
