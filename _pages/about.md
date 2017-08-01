@@ -19,9 +19,14 @@ header:
 
 ## Brief biography
 
-Alex Kendall is a Research Fellow at [Trinity College](https://www.trin.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/) in the United Kingdom. He graduated with a Bachelor of Engineering with First Class Honours in 2013 from the [University of Auckland](https://www.auckland.ac.nz/), New Zealand. In 2014, he was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust.co.nz/) to study towards a Ph.D. at the University of Cambridge. He is a member of the [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/Main/CVR) and is supervised by [Prof. Roberto Cipolla](https://mi.eng.cam.ac.uk/~cipolla/).
+Alex Kendall is a Research Fellow at [Trinity College](https://www.trin.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/) in the United Kingdom.
+He graduated with a Bachelor of Engineering with First Class Honours in 2013 from the [University of Auckland](https://www.auckland.ac.nz/), New Zealand.
+In 2014, he was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust.co.nz/) to study towards a Ph.D. at the University of Cambridge.
+He is a member of the [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/Main/CVR) and is supervised by [Prof. Roberto Cipolla](https://mi.eng.cam.ac.uk/~cipolla/).
 
-Alex is interested in applications of deep learning to teach robots how to see. In particular, he has developed computer vision algorithms for scene understanding and localisation. He is particularly excited about reasoning under uncertainty with Bayesian deep learning, and leveraging geometry for unsupervised learning.
+Alex's research investigates applications of deep learning to robotic perception and control.
+He has developed computer vision algorithms for scene understanding and localisation.
+In particular, he is excited about reasoning under uncertainty with Bayesian deep learning, leveraging geometry for unsupervised learning and developing end-to-end systems which can reason from perception to control.
 
 ## Contact details
 
