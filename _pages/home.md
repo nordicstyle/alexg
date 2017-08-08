@@ -20,7 +20,7 @@ feature_row:
     url: "blog"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/uncertainty.jpg
+  - image_path: /assets/images/poster.jpg
     alt: "Uncertainty with Bayesian Deep Learning"
     title: "Research"
     excerpt: "My research into geometry, uncertainty and deep learning for computer vision."

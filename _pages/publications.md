@@ -23,6 +23,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 > <small>
     Rowan McAllister, Yarin Gal, Alex Kendall, Mark van der Wilk, Amar Shah, Roberto Cipolla, and Adrian Weller. Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning. International Joint Conference on Artificial Intelligence (IJCAI), 2017.<br>
+    <b>(Special Track - AI & Autonomy)</b>
     (<a href="https://www.ijcai.org/proceedings/2017/0661.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_ijcai');">bibtex</a>)
 </small>
@@ -106,6 +107,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 > <small>
     Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, and Adam Bry. End-to-End Learning of Geometry and Context for Deep Stereo Regression. Proceedings of the International Conference on Computer Vision (ICCV), 2017.<br>
+    <b>(Spotlight Oral)</b>
     (<a href="https://arxiv.org/pdf/1703.04309.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_stereo');">bibtex</a>)
 </small>
