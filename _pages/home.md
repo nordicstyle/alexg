@@ -13,14 +13,14 @@ header:
   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
 excerpt: "Research Fellow in Computer Vision and Robotics at the University of Cambridge<br><br><br>"
 feature_row:
-  - image_path: /assets/images/poster.jpg
+  - image_path: /assets/images/uncertainty.jpg
     alt: "Semantic Segmentation"
     title: "Latest Blog: Have We Forgotten about Geometry in Computer Vision?"
     excerpt: ""
     url: "blog"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/uncertainty.jpg
+  - image_path: /assets/images/poster.jpg
     alt: "Uncertainty with Bayesian Deep Learning"
     title: "Research"
     excerpt: "My research into geometry, uncertainty and deep learning for computer vision."
@@ -40,7 +40,8 @@ feature_row:
 {% include feature_row %}
 
 ## Latest News
-* <span style="color:red">June 2017 -</span> We will be presenting a new paper on safety in autonomous driving at IJCAI 2017, in Melbourne, Australia.
+* <span style="color:red">June 2017 -</span> At [ICCV 2017](http://iccv2017.thecvf.com/) I will be presenting a [Spotlight Oral paper](https://arxiv.org/pdf/1703.04309.pdf) and also giving an invited talk at the [Geometry Meets Deep Learning Workshop](https://sites.google.com/site/deepgeometry2017/home)!
+* <span style="color:red">June 2017 -</span> We will be presenting a [new paper on safety in autonomous driving](https://www.ijcai.org/proceedings/2017/0661.pdf) at IJCAI 2017, in Melbourne, Australia.
 * <span style="color:red">March 2017 -</span> [New paper](https://arxiv.org/abs/1704.00390) on relocalisation with deep learning using projection geometry at CVPR 2017, in Hawaii, USA!
 * <span style="color:red">February 2017 -</span> Torsten, Giorgos, Akihiko and I will be running the [tutorial on Large Scale Localisation](https://sites.google.com/view/lsvpr2017/home) at CVPR this year
 * <span style="color:red">January 2017 -</span> Our algorithm [GC-Net](https://arxiv.org/pdf/1703.04309.pdf) is ranked 1st on the KITTI [2012](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stereo) & [2015](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo) Stereo Leaderboards!
