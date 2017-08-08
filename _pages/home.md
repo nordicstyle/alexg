@@ -13,14 +13,14 @@ header:
   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
 excerpt: "Research Fellow in Computer Vision and Robotics at the University of Cambridge<br><br><br>"
 feature_row:
-  - image_path: /assets/images/segmentation.png
+  - image_path: /assets/images/poster.jpg
     alt: "Semantic Segmentation"
     title: "Latest Blog: Have We Forgotten about Geometry in Computer Vision?"
     excerpt: ""
     url: "blog"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/poster.jpg
+  - image_path: /assets/images/uncertainty.jpg
     alt: "Uncertainty with Bayesian Deep Learning"
     title: "Research"
     excerpt: "My research into geometry, uncertainty and deep learning for computer vision."
