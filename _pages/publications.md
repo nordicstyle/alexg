@@ -23,6 +23,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 > <small>
     Rowan McAllister, Yarin Gal, Alex Kendall, Mark van der Wilk, Amar Shah, Roberto Cipolla, and Adrian Weller. Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning. International Joint Conference on Artificial Intelligence (IJCAI), 2017.<br>
+    (<a href="https://www.ijcai.org/proceedings/2017/0661.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_ijcai');">bibtex</a>)
 </small>
 <div id="bibtex_ijcai" style="display:none;">
@@ -104,7 +105,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </div>
 
 > <small>
-    Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, and Adam Bry. End-to-End Learning of Geometry and Context for Deep Stereo Regression. arXiv preprint arXiv:1703.04309, 2017.<br>
+    Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, and Adam Bry. End-to-End Learning of Geometry and Context for Deep Stereo Regression. Proceedings of the International Conference on Computer Vision (ICCV), 2017.<br>
     (<a href="https://arxiv.org/pdf/1703.04309.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_stereo');">bibtex</a>)
 </small>
@@ -113,7 +114,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 <code>@article{kendall2017end,
   title={End-to-End Learning of Geometry and Context for Deep Stereo Regression},
   author={Kendall, Alex and Martirosyan, Hayk and Dasgupta, Saumitro and Henry, Peter and Kennedy, Ryan and Bachrach, Abraham and Bry, Adam},
-  journal={arXiv preprint arXiv:1703.04309},
+  booktitle = {Proceedings of the International Conference on Computer Vision ({ICCV})},
   year={2017}
 }
 </code></pre></div></small>
