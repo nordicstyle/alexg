@@ -74,6 +74,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     Alex Kendall and Roberto Cipolla. Geometric loss functions for camera pose regression with deep learning. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.<br>
     <b>(Spotlight Oral)</b>
     (<a href="https://arxiv.org/abs/1704.00390" style="color:gray">.pdf</a>)
+    (<a href="https://www.youtube.com/watch?v=Rp2Znu1ZJVA" style="color:gray">Oral Video</a>)
     (<a href="/media/presentations/cvpr17_posenet_poster.pdf" style="color:gray">Poster</a>)
     (<a href="/media/presentations/cvpr17_posenet_slides.pdf" style="color:gray">Slides</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_posenetcvpr');">bibtex</a>)
