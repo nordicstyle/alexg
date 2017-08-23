@@ -25,8 +25,9 @@ In 2014, he was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust
 He is a member of the [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/Main/CVR) and is supervised by [Prof. Roberto Cipolla](https://mi.eng.cam.ac.uk/~cipolla/).
 
 Alex's research investigates applications of deep learning to robotic perception and control.
-He has developed computer vision algorithms for scene understanding and localisation.
-In particular, he is excited about reasoning under uncertainty with Bayesian deep learning, leveraging geometry for unsupervised learning and developing end-to-end systems which can reason from perception to control.
+He has developed computer vision algorithms to allow autonomous vehicles to understand complex and dynamic scenes.
+In particular, he is excited about leveraging geometry for unsupervised learning, reasoning under uncertainty with Bayesian deep learning and developing end-to-end systems which can reason from perception to control.
+His technology has been used to power smart-city infrastructure with [Vivacity](http://www.vivacitylabs.com/), control self-driving cars with [Toyota Research Institute](http://www.tri.global/) and enable next-generation drone flight with [Skydio](https://www.skydio.com/).
 
 ## Contact details
 
