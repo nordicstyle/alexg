@@ -25,6 +25,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     Rowan McAllister, Yarin Gal, Alex Kendall, Mark van der Wilk, Amar Shah, Roberto Cipolla, and Adrian Weller. Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning. International Joint Conference on Artificial Intelligence (IJCAI), 2017.<br>
     <b>(Special Track - AI & Autonomy)</b>
     (<a href="https://www.ijcai.org/proceedings/2017/0661.pdf" style="color:gray">.pdf</a>)
+    (<a href="/media/presentations/IJCAI_kendall_2017.pdf" style="color:gray">Slides</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_ijcai');">bibtex</a>)
 </small>
 <div id="bibtex_ijcai" style="display:none;">
