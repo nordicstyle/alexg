@@ -15,8 +15,8 @@ excerpt: "Research Fellow in Computer Vision and Robotics at the University of C
 feature_row:
   - image_path: /assets/images/uncertainty.jpg
     alt: "Semantic Segmentation"
-    title: "Latest Blog: Have We Forgotten about Geometry in Computer Vision?"
-    excerpt: ""
+    title: "Blog"
+    excerpt: "A discussion about what's on my mind from research"
     url: "blog"
     btn_label: "Read More"
     btn_class: "btn--inverse"
