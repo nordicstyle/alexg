@@ -40,6 +40,7 @@ feature_row:
 {% include feature_row %}
 
 ## Latest News
+* <span style="color:red">September 2017 -</span> Two papers accepted to [NIPS 2017](https://nips.cc/) on [Bayesian deep learning](https://arxiv.org/pdf/1703.04977.pdf) (spotlight oral) and a new technique called [Concrete Dropout](https://arxiv.org/pdf/1705.07832.pdf)!
 * <span style="color:red">June 2017 -</span> At [ICCV 2017](http://iccv2017.thecvf.com/) I will be presenting a [Spotlight Oral paper](https://arxiv.org/pdf/1703.04309.pdf) and also giving an invited talk at the [Geometry Meets Deep Learning Workshop](https://sites.google.com/site/deepgeometry2017/home)!
 * <span style="color:red">June 2017 -</span> We will be presenting a [new paper on safety in autonomous driving](https://www.ijcai.org/proceedings/2017/0661.pdf) at IJCAI 2017, in Melbourne, Australia.
 * <span style="color:red">March 2017 -</span> [New paper](https://arxiv.org/abs/1704.00390) on relocalisation with deep learning using projection geometry at CVPR 2017, in Hawaii, USA!
