@@ -188,6 +188,7 @@ Alex Kendall, Matthew Grimes and Roberto Cipolla. PoseNet: A Convolutional Netwo
 > <small>
     Alex Kendall, Vijay Badrinarayanan and Roberto Cipolla. Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding. Proceedings of the British Machine Vision Conference (BMVC), 2017.<br>
     (<a href="http://arxiv.org/abs/1511.02680" style="color:gray">.pdf</a>)
+    (<a href="/media/presentations/bmvc17_bayesian_segnet_poster.pdf" style="color:gray">poster</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_bayesiansegnet');">bibtex</a>)
     (<a href="http://mi.eng.cam.ac.uk/projects/segnet/" style="color:gray">Webpage</a>)
 </small>
