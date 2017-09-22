@@ -112,6 +112,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     Alex Kendall, Hayk Martirosyan, Saumitro Dasgupta, Peter Henry, Ryan Kennedy, Abraham Bachrach, and Adam Bry. End-to-End Learning of Geometry and Context for Deep Stereo Regression. Proceedings of the International Conference on Computer Vision (ICCV), 2017.<br>
     <b>(Spotlight Oral)</b>
     (<a href="https://arxiv.org/pdf/1703.04309.pdf" style="color:gray">.pdf</a>)
+    (<a href="/media/presentations/iccv17_poster_kendall_stereo.pdf" style="color:gray">Poster</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_stereo');">bibtex</a>)
 </small>
 <div id="bibtex_stereo" style="display:none;">
